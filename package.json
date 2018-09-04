@@ -1,0 +1,21 @@
+{
+  "name": "BackendManager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big.js": "^5.1.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-async-errors": "^3.0.0",
+    "lxj-crypto": "0.0.1",
+    "mongoose": "^5.2.12",
+    "morgan": "^1.9.0"
+  }
+}

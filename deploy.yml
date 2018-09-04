@@ -1,0 +1,6 @@
+apps:
+  - script   : app.js
+    name: BackendManager
+    watch  : true
+    env:
+      NODE_ENV: production
